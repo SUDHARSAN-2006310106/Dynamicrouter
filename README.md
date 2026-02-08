@@ -1,0 +1,2 @@
+# Dynamicrouter
+Rip/ospf configuration
